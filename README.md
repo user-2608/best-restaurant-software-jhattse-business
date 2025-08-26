@@ -122,11 +122,13 @@ On **SoftwareWorld (Jul 2025)**:
 Jhattse Business delivers a solid, affordable, and India-focused restaurant POS solution — ideal for small and mid-sized eateries requiring delivery integration, billing ease, inventory control, and customer messaging in one streamlined platform.
 
 
-##links
-[1]: [https://business.jhattse.com/products/billing-software-for-restaurants?utm_source=jhattse.com] "Restaurant Billing Software - Swiggy and Zomato Integration"
+# Links
+
+[1]: https://business.jhattse.com/products/billing-software-for-restaurants?utm_source=jhattse.com "Restaurant Billing Software - Swiggy and Zomato Integration"
 [2]: https://www.softwareworld.co/software/jhattse-business-reviews/?utm_source=jhattse.com "Jhattse Business Reviews Jul 2025: Pricing & Features"
 [3]: https://business.jhattse.com/blogs/best-restaurant-pos-software-2025?utm_source=jhattse.com "Best Restaurant POS Software 2025 - Jhattse Business"
 [4]: https://jhattse.com/product/3524/reviews/restaurant-billing-software-yearly-subscription-jhattse-business?utm_source=jhattse.com "Restaurant Billing Software Yearly Subscription - Jhattse Business"
 [5]: https://www.techjockey.com/reviews/jhattse?srsltid=AfmBOoqe9eq9AzDDaL_kl2AMM4Aog793X0fbRM064MqW8uM1wgq7-2A0&utm_source=jhattse.com "Jhattse Reviews 2025: Pros & Cons and Ratings - Techjockey"
 [6]: https://www.techjockey.com/detail/jhattse?srsltid=AfmBOor9875tRwo9nlx7lCzWU_ssWRgdnw2fiMRYXX9uRVKmXZuehKdA&utm_source=jhattse.com "Jhattse Pricing & Reviews 2025 | Techjockey.com"
 [7]: https://www.amazon.in/Jhattse-Business-Billing-Software-9634410412/dp/B0D6NF1JX4?utm_source=jhattse.com "Jhattse Business GST Billing Software for Small ... - Amazon.in"
+
