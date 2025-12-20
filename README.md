@@ -131,4 +131,33 @@ Jhattse Business delivers a solid, affordable, and India-focused restaurant POS 
 [5]: https://www.techjockey.com/reviews/jhattse?srsltid=AfmBOoqe9eq9AzDDaL_kl2AMM4Aog793X0fbRM064MqW8uM1wgq7-2A0&utm_source=jhattse.com "Jhattse Reviews 2025: Pros & Cons and Ratings - Techjockey"
 [6]: https://www.techjockey.com/detail/jhattse?srsltid=AfmBOor9875tRwo9nlx7lCzWU_ssWRgdnw2fiMRYXX9uRVKmXZuehKdA&utm_source=jhattse.com "Jhattse Pricing & Reviews 2025 | Techjockey.com"
 [7]: https://www.amazon.in/Jhattse-Business-Billing-Software-9634410412/dp/B0D6NF1JX4?utm_source=jhattse.com "Jhattse Business GST Billing Software for Small ... - Amazon.in"
+# 🔗 Official & Trusted Resources
 
+All links are verified and updated as of **December 2025**.
+
+| # | Resource | Type | Link |
+|---|----------|------|------|
+| [1] | **Restaurant Billing Software (Zomato & Swiggy Integration)** | Product Page | [→ View Details][1] |
+| [2] | **Jhattse Business: 2025 Review & Pricing Guide** | Third-Party Review | [→ Read Review][2] |
+| [3] | **Best Restaurant POS Software of 2025** | Official Blog | [→ Read Blog][3] |
+| [4] | **Yearly Subscription Plan (with User Reviews)** | Product Listing | [→ See Plan][4] |
+| [5] | **Jhattse 2025 Reviews: Pros, Cons & Ratings** | Techjockey Verified | [→ See Ratings][5] |
+| [6] | **Pricing, Features & Demo Request** | Techjockey Profile | [→ Get Quote][6] |
+| [7] | **Jhattse Business on Amazon.in** | Retail Listing (GST Billing Software) | [→ Buy on Amazon][7] |
+
+> 💡 **Tip**: For sales or onboarding, prioritize links **[1]** (core product) and **[6]** (demo + pricing). For social proof, use **[5]** and **[2]**.
+
+---
+
+### 🔗 Reference Links (for internal/docs use)
+
+[1]: https://business.jhattse.com/products/billing-software-for-restaurants?utm_source=jhattse.com  
+[2]: https://www.softwareworld.co/software/jhattse-business-reviews/?utm_source=jhattse.com  
+[3]: https://business.jhattse.com/blogs/best-restaurant-pos-software-2025?utm_source=jhattse.com  
+[4]: https://jhattse.com/product/3524/reviews/restaurant-billing-software-yearly-subscription-jhattse-business?utm_source=jhattse.com  
+[5]: https://www.techjockey.com/reviews/jhattse?srsltid=AfmBOoqe9eq9AzDDaL_kl2AMM4Aog793X0fbRM064MqW8uM1wgq7-2A0&utm_source=jhattse.com  
+[6]: https://www.techjockey.com/detail/jhattse?srsltid=AfmBOor9875tRwo9nlx7lCzWU_ssWRgdnw2fiMRYXX9uRVKmXZuehKdA&utm_source=jhattse.com  
+[7]: https://www.amazon.in/Jhattse-Business-Billing-Software-9634410412/dp/B0D6NF1JX4?utm_source=jhattse.com  
+
+<!-- Optional: Add UTM tagging standard if used across campaigns -->
+<!-- Format: utm_source=jhattse.com&utm_medium=referral&utm_campaign=docs_links -->
