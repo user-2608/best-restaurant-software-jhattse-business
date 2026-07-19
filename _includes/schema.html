@@ -1,0 +1,57 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Jhattse Business",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web, iOS, Android",
+  "offers": {
+    "@type": "Offer",
+    "price": "999",
+    "priceCurrency": "INR"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "1250"
+  },
+  "description": "{{ page.description }}",
+  "screenshot": "{{ site.url }}/assets/dashboard.png",
+  "downloadUrl": "{{ site.url }}/demo",
+  "featureList": "QR Menu, Table Ordering, Billing, Inventory, Analytics, CRM",
+  "softwareVersion": "2.0",
+  "author": {
+    "@type": "Organization",
+    "name": "Jhattse Business",
+    "url": "{{ site.url }}",
+    "logo": "{{ site.url }}/assets/logo.png",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+91-6394575814",
+      "contactType": "Customer Service",
+      "areaServed": "IN",
+      "availableLanguage": ["English", "Hindi"]
+    }
+  }
+}
+</script>
+
+{% if page.faq_schema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": {{ page.faq_schema | jsonify }}
+}
+</script>
+{% endif %}
+
+{% if page.breadcrumb %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": {{ page.breadcrumb | jsonify }}
+}
+</script>
+{% endif %}
