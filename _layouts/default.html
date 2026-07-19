@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  
+  <main id="main-content" role="main">
+    {{ content }}
+  </main>
+  
+  {% include footer.html %}
+  {% include schema.html %}
+  
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+title: Jhattse Business
+description: Complete Restaurant Management Software for Modern Food Businesses in India
+url: https://jhattse.com
+logo: /assets/logo.png
+social:
+  twitter: jhattse
+  instagram: jhattse.in
+  linkedin: jhattse-business
+contact:
+  phone: +91-6394575814
+  email: support@jhattse.com
+  address: Saket Nagar, Kanpur, Uttar Pradesh, India
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/og-image.jpg
+exclude:
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
