@@ -63,3 +63,5 @@ htmlcov/
 *.tar.xz
 *.tar.zst
 ```
+=======
+The provided input shows a modified file path `'"Restaurant'` which appears to be malformed or corrupted (contains a quote character). However, since this doesn't match any of the typical build artifacts, dependency directories, editor files, system files, or compressed files that should be ignored according to the rules, and there are no other relevant file changes listed that would require adding ignore patterns, no additions to .gitignore are needed.
